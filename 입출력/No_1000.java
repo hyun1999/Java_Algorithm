@@ -2,7 +2,7 @@ package 입출력;
 
 import java.util.Scanner;
 
-public class No_1000 {
+public class no_1000 {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
