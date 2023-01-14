@@ -9,7 +9,8 @@ public class no_10807 {
         int[] arr = new int[T];
         for(int i=0;i<T;i++){
             arr[i] = scan.nextInt();
-        }
+            
+        }   
         int count = 0;
         int value = scan.nextInt();
         for(int i=0;i<T;i++){
