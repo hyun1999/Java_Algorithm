@@ -19,7 +19,5 @@ public class no_10871 {
         for(int i = 0; i<small.size();i++){
             System.out.println(small.get(i));
         }
-
-
     }
 }
