@@ -16,7 +16,5 @@ public class no_5597 {
                 System.out.println(j+1);
             }
         }
-
-        System.out.println(Arrays.toString(arr));
     }
 }
