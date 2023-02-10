@@ -1,7 +1,6 @@
 package 정렬;
 
 import java.util.Arrays;
-import java.util.Collections;
 import java.util.Scanner;
 
 public class no_25305 {
